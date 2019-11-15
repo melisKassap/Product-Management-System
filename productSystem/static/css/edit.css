@@ -1,0 +1,65 @@
+.body {
+  font-size: 30px;
+}
+
+.ui.secondary.vertical.menu {
+  margin-left: 20px;
+  margin-top: 30px;
+  font-size: 15px;
+  border-right: 1px solid rgba(34, 36, 38, .15);
+  border-top: 1px solid rgba(34, 36, 38, .15);
+}
+
+#template {
+  margin-left: 20px;
+  margin-top: 32px;
+}
+
+.addProduct,
+.newCategory,
+.selectCategories {
+  margin-bottom: 20px;
+}
+
+.twelve.wide.stretched {
+  margin-bottom: 10px;
+}
+
+.ui.header:first-child {
+  margin-top: 1em;
+}
+
+.ui.form .field>label {
+
+  color: #2185d0;
+  font-size: 20px;
+  text-align: Justify;
+}
+
+.ui.form .field .ui.input input {
+  font-size: 15px;
+}
+
+.ui.form select {
+  height: 45px;
+}
+
+.ui[class*="right labeled"].icon.button {
+  margin-bottom: 15px;
+}
+
+.list{
+  height: 35px;
+  width: 100px;
+}
+.tdid, .tdimage, .tdPrice, .tdPiece{
+  width: 100px;
+}
+
+.tdname{
+  width: 200px;
+}
+
+.tdCategory{
+  width: 120px;
+}
